@@ -1,0 +1,5 @@
+{
+  "name": "MerryMatch",
+  "description": "크리스마스 솔로들을 위한 소원 매칭 서비스. 비슷한 계획을 가진 사람들을 AI가 모아 채팅방을 만들어줍니다.",
+  "requestFramePermissions": []
+}
